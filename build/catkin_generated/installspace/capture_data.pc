@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: capture_data
+Description: Description of capture_data
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: roslib

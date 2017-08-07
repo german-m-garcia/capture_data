@@ -1,0 +1,8 @@
+prefix=/home/martin/workspace_tests/src/capture_data/build/devel
+
+Name: capture_data
+Description: Description of capture_data
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/martin/workspace_tests/src/capture_data/build/devel/lib 
+Requires: roslib
